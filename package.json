@@ -143,5 +143,9 @@
   "devDependencies": {
     "tslint": "^5.13.0",
     "typescript": "^3.2.2"
-  }
+  },
+  "tools": {
+      "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+      "version": "1.0.0-preview3-final"
+  }}
 }
