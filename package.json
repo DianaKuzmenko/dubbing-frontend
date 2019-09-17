@@ -14,7 +14,7 @@
     "@types/react-global-configuration": "^1.3.1",
     "@types/react-redux": "^7.0.1",
     "@types/react-router": "^4.4.3",
-    "@types/react-router-dom": "next",
+    "@types/react-router-dom": "^4.3.1",
     "@types/reactstrap": "^6.4.3",
     "axios": "^0.18.0",
     "babel-core": "7.0.0-bridge.0",
