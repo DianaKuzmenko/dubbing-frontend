@@ -139,9 +139,7 @@
       "react-app"
     ]
   },
-  "homepage" : {
-    "http://DianaKuzmenko.github.io/dubbing"
-  },
+  "homepage" : "http://DianaKuzmenko.github.io/dubbing",
   "devDependencies": {
     "tslint": "^5.13.0",
     "typescript": "^3.2.2"
