@@ -36,6 +36,7 @@ config.set(configuration);
 const app: JSX.Element = (
     <Provider store={store}>
         <Router history={history}>
+            <App />
         </Router>
     </Provider>
 );
